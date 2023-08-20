@@ -1,4 +1,4 @@
-package AkAkce;
+package Utility;
 
 public class MyFunc {
 
