@@ -1,3 +1,5 @@
+package Senol;
+
 import AkAkce.BaseDriver;
 import AkAkce.MyFunc;
 import org.junit.Test;
