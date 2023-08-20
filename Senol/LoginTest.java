@@ -1,3 +1,5 @@
+package Senol;
+
 import Utility.BaseDriver;
 import Utility.MyFunc;
 import org.junit.Test;
